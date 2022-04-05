@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica;
+  background-color: #F3F6F9;
+  
+}
+
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+#show-page {
+  font: black;
+  background-color: #F3F6F9;
+}
+
+
